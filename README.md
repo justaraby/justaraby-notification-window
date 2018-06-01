@@ -8,14 +8,18 @@ Wordpress plugin for create custom message apper in site
 === Plugin Name ===
 
 Contributors: seedprod, johnnytee, Justaraby
+
 Donate link: http://justaraby.com/
+
 Tags: message, floating bar, notice, notification, sticky header, special offer, discount offer, offer, important, Notification Window, attention bar, highlight bar
+
 Requires at least: 3.0.0
+
 Tested up to: 4.9.1
+
 Stable tag: 1.3.9
 
 A quick and easy Notification Window and call to action for your site.
-
 
 == Description ==
 
