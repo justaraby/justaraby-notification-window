@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Justaraby Notification Window\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-12 12:25-0500\n"
+"PO-Revision-Date: 2018-06-01 11:01+0200\n"
+"Language-Team: SeedProd <support@seedprod.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: just-notification-window.php:27
+msgid "Justaraby Notification Window"
+msgstr "نافذة الإعلانات من justaraby.com"
+
+#: just-notification-window.php:42
+#, php-format
+msgid ""
+"WordPress %s and higher required. The plugin has now disabled itself. On a "
+"side note why are you running an old version :( Upgrade!"
+msgstr ""
+"وورد %s ليالي واعلي المطلوبة. البرنامج المساعد الآن تعطيل نفسها. علي الجانب "
+"ملاحظه لماذا تقوم بتشغيل نسخه قديمه:( ترقيه!"
+
+#: framework/framework.php:116
+msgid "Settings reset."
+msgstr "إعادة ضبط إلاعدادات"
+
+#: framework/framework.php:353
+msgid "Save Changes"
+msgstr "حفظ الاعدادات "
+
+#: framework/framework.php:354
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: framework/framework.php:384
+msgid "All custom settings values be deleted. Are you sure you want to reset?"
+msgstr "يتم حذف كافة قيم الإعدادات المخصصة. هل تريد بالتاكيد أعاده التعيين ؟"
+
+#: framework/field-types/upload.php:8
+msgid "Media Image Library"
+msgstr "مكتبه صور الوسائط"
+
+#: framework/validations/color.php:13
+msgid "Please enter a valid color value."
+msgstr "الرجاء إدخال قيمة لون صحيحة."
+
+#: framework/validations/email.php:10
+msgid "Please enter a valid email."
+msgstr "من فضلك قم بإدخال بريد الكتروني صحيح."
+
+#: framework/validations/number.php:11
+msgid "Please enter a valid number."
+msgstr "رجاء ادخل هاتف صحيح."
+
+#: framework/validations/required.php:10
+msgid "is required."
+msgstr "مطلوب"
+
+#: inc/config.php:21
+msgid "Notification Window"
+msgstr "نافذة الاعلانات"
+
+#: inc/config.php:50 inc/config.php:76
+msgid "Message"
+msgstr "الرسالة"
+
+#: inc/config.php:65
+msgid "Enabled"
+msgstr "تمكين"
+
+#: inc/config.php:66
+msgid "Check if you want to enable the Notification Window on your site."
+msgstr "ضع إشارة إذا أردت تفعيل نافذة الاعلانات"
+
+#: inc/config.php:68 inc/config.php:101
+msgid "Yes"
+msgstr "نعم"
+
+#: inc/config.php:77
+msgid "Enter your message."
+msgstr "ادخل رسالتك."
+
+#: inc/config.php:83
+msgid "Button Label"
+msgstr "تسمية الزر"
+
+#: inc/config.php:84
+msgid ""
+"Enter a title for your call to action button. If not entered the button will "
+"not appear."
+msgstr "عنوان الزر. مثلا \"اضغط هنا للدخول\"."
+
+#: inc/config.php:90
+msgid "Button Link"
+msgstr "رابط الزر"
+
+#: inc/config.php:91
+msgid "Enter a link for the button."
+msgstr "أدخل رابط الزر."
+
+#: inc/config.php:98
+msgid "Button Target"
+msgstr "هدف الزر"
+
+#: inc/config.php:99
+msgid ""
+"Open link in new window. If this is not checked the link will open in the "
+"same window."
+msgstr "فتح الرابط  في نافذة  جديد. إذا لم يتم وضع إشارة ستفتح في نفس النافذة."
+
+#: inc/config.php:110
+msgid "Style"
+msgstr "مظهر"
+
+#: inc/config.php:116
+msgid "Position"
+msgstr "موضع"
+
+#: inc/config.php:118
+msgid "Sticky, stays at the top of the page even when you scroll down."
+msgstr "مثبت. سيقى الشريط مثبتا وظاهرا أعلى الصفحة"
+
+#: inc/config.php:125
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: inc/config.php:134
+msgid ""
+"<p>Enter your information then click \"Save Changes\" to see a preview "
+"above. Check \"Enabled\" when you are ready to go live.</p>"
+msgstr ""
+"<p>أدخل المعلومات الخاصة بك، ثم انقر فوق \"حفظ التغييرات\" لرؤية المعاينة "
+"أعلاه. لا تنس أن تضع إشارة على \"تفعيل\".</p>"

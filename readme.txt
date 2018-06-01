@@ -1,12 +1,6 @@
 # justaraby-notification-window
-
 Wordpress plugin for create custom message apper in site 
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-
 === Plugin Name ===
-
 Contributors: seedprod, johnnytee, Justaraby
 Donate link: http://justaraby.com/
 Tags: message, floating bar, notice, notification, sticky header, special offer, discount offer, offer, important, Notification Window, attention bar, highlight bar
@@ -15,7 +9,6 @@ Tested up to: 4.9.1
 Stable tag: 1.3.9
 
 A quick and easy Notification Window and call to action for your site.
-
 
 == Description ==
 
@@ -27,8 +20,8 @@ A quick and easy **Notification Window** and **call to action** for your site.
 
 *   Quick & easy setup
 *   Custom message and call to action button
-*	Sticky Notification Window
-*	Choose any color to match your site
+*	  Sticky Notification Window
+*	  Choose any color to match your site
 *   i18n Support
 *   Multisite Support
 
